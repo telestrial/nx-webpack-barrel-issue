@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@woggle/ui": ["libs/ui/src/index.ts"]
+      "@woggle/ui": ["libs/ui/src/index.ts"],
+      "@woggle/ui/orange-box": ["libs/ui/src/lib/orange-box"],
+      "@woggle/ui/blue-box": ["libs/ui/src/lib/blue-box"]
     }
   },
   "exclude": ["node_modules", "tmp"]
