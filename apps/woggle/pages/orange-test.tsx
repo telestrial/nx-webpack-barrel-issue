@@ -3,7 +3,9 @@ import { OrangeBox } from '@woggle/ui';
 export default function Page1() {
   return (
     <div>
-      Page 1 <OrangeBox />
+      Orange Box Tree Shake Test
+      <p>We would expect to only see orange box code here</p>
+      <OrangeBox />
     </div>
   );
 }
