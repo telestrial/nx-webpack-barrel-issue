@@ -1,3 +1,4 @@
+// import { OrangeBox } from '@woggle/ui';
 import { OrangeBox } from '@woggle/ui/orange-box';
 
 export default function Page1() {
