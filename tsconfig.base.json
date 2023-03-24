@@ -18,8 +18,8 @@
       // Top level index
       "@woggle/ui": ["libs/ui/src/index.ts"],
       // Individual index
-      "@woggle/ui/orange-box": ["libs/ui/src/lib/orange-box"],
-      "@woggle/ui/blue-box": ["libs/ui/src/lib/blue-box/blue-box"],
+      "@woggle/ui/orange-box": ["libs/ui/src/lib/orange-box/index.ts"],
+      "@woggle/ui/blue-box": ["libs/ui/src/lib/blue-box/index.ts"],
     }
   },
   "exclude": ["node_modules", "tmp"]
