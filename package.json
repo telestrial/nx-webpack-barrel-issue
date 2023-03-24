@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@next/bundle-analyzer": "^13.2.4",
     "@nrwl/next": "15.8.7",
     "next": "13.1.1",
     "react": "18.2.0",
