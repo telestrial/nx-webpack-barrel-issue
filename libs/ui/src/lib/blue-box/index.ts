@@ -1,2 +1,2 @@
 export * from './blue-box';
-export * from './red-box';
+export * from './sky-blue-box';

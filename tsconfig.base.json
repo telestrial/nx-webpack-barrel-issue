@@ -15,9 +15,11 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      // Top level index
       "@woggle/ui": ["libs/ui/src/index.ts"],
+      // Individual index
       "@woggle/ui/orange-box": ["libs/ui/src/lib/orange-box"],
-      "@woggle/ui/blue-box": ["libs/ui/src/lib/blue-box"]
+      "@woggle/ui/blue-box": ["libs/ui/src/lib/blue-box/blue-box"],
     }
   },
   "exclude": ["node_modules", "tmp"]

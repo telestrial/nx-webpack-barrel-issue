@@ -12,7 +12,7 @@ export function Index() {
         gap: '1rem',
       }}
     >
-      <div>Import Tests</div>
+      <div>Import Tree Shake Tests</div>
       <p>We would expect not to see orange or blue box code here</p>
       <Link href="/orange-test">With Orange Box</Link>
       <Link href="/orange-blue-test">With Orange & Blue Box</Link>
