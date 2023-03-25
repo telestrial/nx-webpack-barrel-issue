@@ -1,6 +1,6 @@
-// import { BlueBox, OrangeBox } from '@woggle/ui';
-import { OrangeBox } from '@woggle/ui/orange-box';
-import { BlueBox } from '@woggle/ui/blue-box';
+import { BlueBox, OrangeBox } from '@woggle/ui';
+// import { OrangeBox } from '@woggle/ui/orange-box';
+// import { BlueBox } from '@woggle/ui/blue-box';
 
 // Don't flip this import. Just what's above.
 import Link from 'next/link';
